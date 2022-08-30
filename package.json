@@ -1,6 +1,6 @@
 {
   "name": "metrics-unit-convertion",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Javascript library to convert metrics between units.",
   "scripts": {
     "build": "rollup -c",
@@ -11,6 +11,7 @@
   },
   "author": "extempis",
   "license": "MIT",
+  "homepage": "https://github.com/extempis/metrics-unit-convertion",
   "files": [
     "dist/*"
   ],
