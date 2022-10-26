@@ -1,6 +1,6 @@
 {
   "name": "metrics-unit-convertion",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Javascript library to convert metrics between units.",
   "scripts": {
     "build": "rollup -c",
